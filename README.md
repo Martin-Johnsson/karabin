@@ -1,18 +1,68 @@
-# Vue 3 + TypeScript + Vite
+# Portfolio
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Project for expressing my skills in a recruitment process.
 
-## Recommended IDE Setup
+## Table of Contents
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+1. [Prerequisites](#prerequisites)
+2. [Installation](#installation)
+3. [Acknowledgments](#acknowledgements)
+4. [Tech Stack](#tech-stack)
+5. [Contact Information](#contact-information)
+6. [Demo](#demo)
 
-## Type Support For `.vue` Imports in TS
+## Prerequisites
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+Node.js 20.10.0
+npm 10.2.5
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+## Installation
 
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+# 1. Clone the repository
+
+git clone https://github.com/Martin-Johnsson/karabin
+
+# 2. Navigate to the project folder
+
+# 3. Install dependencies
+
+npm install
+
+# 4.Run application
+
+npm run dev
+
+## Acknowledgements
+
+Special thanks to:
+
+vue 3.3.11
+@vitejs/plugin-vue 4.5.2,
+autoprefixer 10.4.16
+postcss 8.4.32
+tailwindcss 3.3.6
+typescript 5.2.2
+vite 5.0.8
+vue-tsc 1.8.25
+
+## Tech stack
+
+vue 3.3.11
+@vitejs/plugin-vue 4.5.2,
+autoprefixer 10.4.16
+postcss 8.4.32
+tailwindcss 3.3.6
+typescript 5.2.2
+vite 5.0.8
+vue-tsc 1.8.25
+
+## Contact Information
+
+# Martin Johnsson
+
+https://github.com/Martin-Johnsson/
+maartinjohnsson@gmail.com
+
+## Demo
+
+Not available at this moment.
